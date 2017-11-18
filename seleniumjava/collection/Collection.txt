@@ -1,0 +1,15 @@
+What is Collection 
+
+*It is Dynamic Data Structure
+*It added after Java 1.5
+*Collections in Java is framework that provides an architecture to store and manipulate the group of objects 
+*All the  operations that you perform on a data such as searching, sorting, insertion, manipulation, deletion etc. Can be performed by Java collections
+*Java collection simply means a single unit of objects 
+*Java collection framework provides many interfaces (Set, List, Queue, Deque etc.) and classes(ArrayList, Vector, LinkedList, PriorityQueue, HashSet, LinkedHashSet, TreeSet etc).
+
+*Java ArrayList class uses a dynamic array for storing the
+*Java ArrayList class can contain duplicate elements
+*Java ArrayList class maintains insertion order.
+*Java ArrayList allows random access becuase array works at the index basis.
+*In java ArrayList class, manipulation is slow becuase a lot of shiftingh needs to be occured if any element is  removed from the array list.
+ 

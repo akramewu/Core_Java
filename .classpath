@@ -3,6 +3,7 @@
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="seleniumjava"/>
+	<classpathentry kind="src" path="oracle"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JavaFx"/>
 	<classpathentry kind="lib" path="C:/Users/27708570/Desktop/Appium_Test/ST4-4.0.8.jar"/>
 	<classpathentry kind="lib" path="C:/Users/27708570/Desktop/Appium_Test/antlr4-4.0.jar"/>
